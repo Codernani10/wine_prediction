@@ -1,0 +1,49 @@
+.header{
+    background-color: rgb(169, 37, 107);
+    padding: 20px  50px;
+    text-align: center;
+}
+.logo{
+    border-radius: 50%;
+}
+.main-head{
+    text-align: left;
+    padding-top: 30px;
+}
+.social-icons{
+    font-size: 40px;
+    padding: 20px;
+    color: black;
+}
+a {
+    padding: 0px 20px;
+}
+.first-head{
+    padding: 20px 0px 20px 0px;
+    text-align: left;
+    background-color: azure;
+}
+.form-style{
+    text-align: center;
+    padding: 10px;
+
+}
+input {
+    padding: 7px;
+    width: 97%;
+}
+.btn1 {
+    text-align: center;
+}
+button {
+    padding: 10px 40px;
+}
+.prediction{
+    text-align: center;
+    border: 2px solid brown;
+    margin: 60px;
+    padding: 50px;
+}
+.fotter{
+text-align: center;
+}
